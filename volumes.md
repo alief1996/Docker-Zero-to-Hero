@@ -11,6 +11,7 @@ There are 2 different ways how docker solves this problem.
 
 1. Volumes
 2. Bind Directory on a host as a Mount
+3.this is alief
 
 ### Volumes 
 
