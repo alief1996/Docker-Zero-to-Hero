@@ -1,6 +1,6 @@
 # Docker Networking
 
-Networking allows containers to communicate with each other and with the host system. Containers run isolated from the host system
+Networking allows containers to communicate with each other and with the host system. Containers run isolated from the host system and this page is modified
 and need a way to communicate with each other and with the host system.and laptop
 
 By default, Docker provides two network drivers for you, the bridge and the overlay drivers. 
